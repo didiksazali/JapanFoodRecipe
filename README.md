@@ -2,6 +2,8 @@
 
 Culinary Japan is never bored to try, in addition to processing that is still thick with several food traditions have a unique way when eating it. This app is made for those who want to make their own japanese cuisine. This app include a simple guide to the famous Japanese cuisine menu in Indonesia.
 
+
+
 ## Demo
 
 <p align="center">
@@ -16,6 +18,12 @@ Culinary Japan is never bored to try, in addition to processing that is still th
   <img src="ss/6.png" height="500" alt="" />
   <img src="ss/7.png" height="500" alt="" />
 </p>
+
+### Download It
+
+<a href="https://play.google.com/store/apps/details?id=resep.masakan.jepang">
+  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+</a>
 
 
 
